@@ -1,0 +1,18 @@
+>>  100      The 3n + 1 problem
+>>  11479 	Is this the easiest problem?
+>>  10783 	Odd Sum
+>>  494 	Kindergarten Counting Game
+>>  11172 	Relational Operator
+>>  11727 	Cost Cutting
+>>  1124 	Celebrity jeopardy
+>>  10055 	Hashmat the Brave Warrior
+>>  11854 	Egypt
+>>  10071 	Back to High School Physics
+>>  11764 	Jumping Mario
+>>  12577 	Hajj-e-Akbar
+>>  11462 	Age Sort
+>>  488 	Triangle Wave
+>>  10038  Jolly Jumpers
+>>  10812   Beat the Spread!
+>>  12578   10:6:2
+>>  458      The Decoder
